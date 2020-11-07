@@ -1,2 +1,2 @@
 var s = "Hello World"
-printf(s)
+print(s)
