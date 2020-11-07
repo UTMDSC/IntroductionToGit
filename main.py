@@ -1,2 +1,1 @@
-var s = "Hello World"
-printf(s)
+printf("Hello World")
